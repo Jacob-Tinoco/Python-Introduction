@@ -1,4 +1,4 @@
-# Introducci-n-a-Python-
+# Introducción a Python-
 Repositorio experimental para subir cursos gratuitos a modo de repositorios
 # Introducción a Python
 
