@@ -1,6 +1,10 @@
 # Introducción a Python-
 Repositorio experimental para subir cursos gratuitos a modo de repositorios
-# Introducción a Python
+## Autores
+
+- **Jacob Tinoco** - *Repositorio de educación* - [Jacob-Tinoco](https://github.com/Jacob-Tinoco)
+## Bienvenida
+¡Hola! 👋 Bienvenido al repositorio **Python Introduction**, Este repositorio contiene en cada carpeta una lección, se permite la divulgación del mismo con fines educativos, solo pido contribuir de una u otra manera y queda prohibido su uso con fines de lucro, no olviden darme creditos :v
 
 # **Python:**
 
@@ -109,3 +113,14 @@ Son herramientas de comunicación entre humanos y computadoras. Tienen su propia
 - **Lenguajes compilados:** El código se traduce a lenguaje de máquina y se ejecuta. Son más eficientes en términos de rendimiento computacional.
 
 - **Lenguajes de scripting:** El código se interpreta y se ejecuta directamente. Son más fáciles de usar para el proceso de codificación, pero pueden ser menos eficientes en términos de rendimiento.
+
+
+## Actualizaciones
+Posteriormente actualizaré este archivo README para proporcionar más detalles sobre el proyecto.
+**Fecha de última actualización:** 02/02/25
+
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Contacto
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jacob-t-329675258/) o en [Instagram](https://www.instagram.com/jknc.0/).
