@@ -4,7 +4,7 @@
 ## Bienvenida
 ¡Hola! 👋 Bienvenido a la carpeta **Lección de Assignament**, aqui se aprendera como asignar valores en python y como imprimir información básica: números y texto.
 
-## Desclamer 
+## Disclaimer
  Se permite la divulgación de estas lecciones con fines educativos y se prohibe su uso para fines de lucro, no olviden contribuir de una u otra manera, recomendando, dando sugerencias o simplemente mencionandome.
 
 # Assignament
