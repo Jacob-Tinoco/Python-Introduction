@@ -1,4 +1,19 @@
+## Autores
+
+- **Jacob Tinoco** - *Repositorio de educación* - [Jacob-Tinoco](https://github.com/Jacob-Tinoco)
+## Bienvenida
+¡Hola! 👋 Bienvenido a la carpeta **Lección de Assignament**, aqui se aprendera como asignar valores en python y como imprimir información básica: números y texto.
+
 # Assignament
+
+## Sobre la lección
+
+Esta lección cubre los conceptos básicos de la asignación en Python, incluyendo cómo utilizar el operador `=` para asignar valores a variables, realizar asignaciones múltiples, intercambiar valores, y más.
+
+## Para qué se usa el assignament
+
+El assignament se utiliza para enseñar a los estudiantes cómo asignar valores a variables en Python y cómo manejar diferentes tipos de asignaciones, lo cual es fundamental para cualquier programación en Python.
+## Lección
 
 La asignación básica Utiliza el operador `=` para asignar un valor a una variable.
 
@@ -68,3 +83,71 @@ La asignación básica Utiliza el operador `=` para asignar un valor a una varia
     x %= 3
     
     ```
+## Requerimientos Básicos
+
+Para seguir esta lección, necesitarás tener instalado Python en tu sistema. Además, se recomienda tener un editor de texto o un entorno de desarrollo integrado (IDE) como Visual Studio Code o PyCharm.
+
+## Código de Instalación de los Requerimientos para el CMD en Linux
+
+Para instalar Python, puedes seguir estos pasos en la línea de comandos (CMD):
+
+```bash
+
+
+# Actualiza el gestor de paquetes
+sudo apt update
+
+# Instala Python
+sudo apt install python3
+
+# Verifica la instalación
+python3 --version
+```
+
+## Código de Instalación de los Requerimientos para el CMD en Linux
+## Instalación de Python en Windows
+
+Para instalar Python en Windows, sigue estos pasos:
+
+1. **Descargar el instalador de Python**:
+   - Ve al sitio web oficial de Python: [python.org](https://www.python.org/)
+   - Haz clic en el botón "Download Python" para descargar el instalador.
+
+2. **Ejecutar el instalador**:
+   - Abre el archivo descargado para iniciar el instalador.
+   - Asegúrate de marcar la casilla "Add Python to PATH" antes de hacer clic en "Install Now".
+
+3. **Verificar la instalación**:
+   - Abre el símbolo del sistema (CMD).
+   - Escribe el siguiente comando para verificar que Python se ha instalado correctamente:
+     ```bash
+     python --version
+     ```
+   - Deberías ver la versión de Python instalada en tu sistema.
+
+4. **Instalar pip (si no está incluido)**:
+   - Pip es el gestor de paquetes de Python y generalmente se incluye con la instalación de Python. Para verificar si pip está instalado, ejecuta el siguiente comando:
+     ```bash
+     pip --version
+     ```
+   - Si pip no está instalado, puedes instalarlo manualmente siguiendo las instrucciones en el sitio web oficial de Python.
+
+5. **Actualizar pip**:
+   - Es recomendable actualizar pip a la última versión. Ejecuta el siguiente comando:
+     ```bash
+     python -m pip install --upgrade pip
+     ```
+
+Con estos pasos, tendrás Python instalado y listo para usar en tu sistema Windows.
+
+---
+
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Contacto
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jacob-t-329675258/) o en [Instagram](https://www.instagram.com/jknc.0/).
+
+## Autor
+
+Jacob Tinoco
