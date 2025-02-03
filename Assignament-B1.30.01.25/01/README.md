@@ -1,4 +1,4 @@
-## Autores
+# Autores
 
 - **Jacob Tinoco** - *Repositorio de educación* - [Jacob-Tinoco](https://github.com/Jacob-Tinoco)
 ## Bienvenida
